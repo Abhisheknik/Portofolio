@@ -257,7 +257,7 @@ export const education = [
 
 export const projects = [
   {
-    id: 11,
+    id: 6,
     title: "OCR Text Extractor",
     date: "July 2024",
     description:
