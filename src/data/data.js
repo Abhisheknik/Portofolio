@@ -263,7 +263,7 @@ export const projects = [
     description:
       "OCR text extractor in Python to automate pulling data from medical documents. ",
     image:
-      "https://private-user-images.githubusercontent.com/79035081/346035934-a5c1a085-a28a-4cc3-aa2d-b827ca579fd9.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA0MTIxNzksIm5iZiI6MTcyMDQxMTg3OSwicGF0aCI6Ii83OTAzNTA4MS8zNDYwMzU5MzQtYTVjMWEwODUtYTI4YS00Y2MzLWFhMmQtYjgyN2NhNTc5ZmQ5Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzA4VDA0MTExOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyN2JjOWYyZjRhZWY4ZTZjOGQ1ZGJhNjViYjZhNzQ0NTkxODkxZTNhYWMyN2FhMWU1NjNlZjkzMmE2Mjg1MmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.gAHOZMWWdLZmUAmts8PjmlOIPkeLbOalg40K8Nj_5bA",
+      "https://firebasestorage.googleapis.com/v0/b/adad-b1b1d.appspot.com/o/Screenshot%202024-07-08%20102412.png?alt=media&token=374b9435-d300-454b-9f8f-5cbc4450f8af",
     tags: [
       "Python",
       "Pytesseract",
