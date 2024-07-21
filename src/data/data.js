@@ -239,8 +239,8 @@ export const education = [
     id: 0,
     img: "https://gesociety.in/wp-content/uploads/2018/05/logo.png",
     school: "Gokhale Education Society's R. H. Sapat College of Engineering, Management Studies and Research",
-    date: "Oct 2022 - Present",
-    grade: "8.71 CGPA",
+    date: "Oct 2022 - May 2024",
+    grade: "8.24 CGPA First Class With Distinction",
     desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
     degree: "Master of Computer Application (Engineering)",
   },
@@ -256,6 +256,23 @@ export const education = [
 ];
 
 export const projects = [
+  {
+    id: 11,
+    title: "Megan AI APP",
+    date: "July 2024",
+    description:
+      "MEGAN (Machine Enhanced Gateway for AI Networking) is a comprehensive mobile app that integrates various AI tools into one platform. ",
+    image:
+      "https://github-production-user-asset-6210df.s3.amazonaws.com/79035081/344371277-93f98f3d-a08d-40ee-9a88-cd2973fffcd5.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240721%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240721T125133Z&X-Amz-Expires=300&X-Amz-Signature=e0d232b3c265faf303f8d7c217c12bb95a41ad2add92f9f2a4d1637c7a9424ad&X-Amz-SignedHeaders=host&actor_id=79035081&key_id=0&repo_id=790073877",
+    tags: [
+      "Flutter",
+      "Firebase",
+      "API",
+      "AI",
+    ],
+    category: "app",
+    github: "https://github.com/Abhisheknik/Megan_Ai_hub",
+  },
   {
     id: 6,
     title: "OCR Text Extractor",
