@@ -269,6 +269,7 @@ export const projects = [
       "Firebase",
       "API",
       "AI",
+      "Razorpay",
     ],
     category: "app",
     github: "https://github.com/Abhisheknik/Megan_Ai_hub",
