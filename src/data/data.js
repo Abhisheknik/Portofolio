@@ -263,7 +263,7 @@ export const projects = [
     description:
       "MEGAN (Machine Enhanced Gateway for AI Networking) is a comprehensive mobile app that integrates various AI tools into one platform. ",
     image:
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/79035081/344371277-93f98f3d-a08d-40ee-9a88-cd2973fffcd5.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240721%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240721T125133Z&X-Amz-Expires=300&X-Amz-Signature=e0d232b3c265faf303f8d7c217c12bb95a41ad2add92f9f2a4d1637c7a9424ad&X-Amz-SignedHeaders=host&actor_id=79035081&key_id=0&repo_id=790073877",
+      "https://github-production-user-asset-6210df.s3.amazonaws.com/79035081/344371277-93f98f3d-a08d-40ee-9a88-cd2973fffcd5.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240721%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240721T125133Z&X-Amz-Expires=300&X-Amz-Signature=e0d232b3c265faf303f8d7c217c12bb95a41ad2add92f9f2a4d1637c7a9424ad&X-Amz-SignedHeaders=hosthttps://firebasestorage.googleapis.com/v0/b/adad-b1b1d.appspot.com/o/Screenshot%202024-07-21%20183005.png?alt=media&token=8455a5bd-996a-4f14-a0d0-cd4f1de3794e",
     tags: [
       "Flutter",
       "Firebase",
