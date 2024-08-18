@@ -9,7 +9,7 @@ export const Bio = {
     "Enthusiastic tech learner with a positive attitude and growth mindset. Big thinker ready to make meaningful contributions and achieve greater things. Excited about the endless possibilities in the world of technology",
   github: "https://github.com/Abhisheknik",
   resume:
-    "https://firebasestorage.googleapis.com/v0/b/adad-b1b1d.appspot.com/o/Abhishek_Nikam_CV%20(4).pdf?alt=media&token=ee504aaf-e09a-4aa0-a477-b618fb51aefd",
+    "https://firebasestorage.googleapis.com/v0/b/adad-b1b1d.appspot.com/o/Abhishek_Nikam_CV_5.pdf?alt=media&token=61a91fb1-32ba-4084-9f1c-193c7b678db1",
   linkedin: "https://www.linkedin.com/in/abhishek-nikam/",
   insta: "https://www.instagram.com/abhiz_hek/",
 };
@@ -142,6 +142,18 @@ export const skills = [
 ];
 
 export const experiences = [
+   {
+    id: 0,
+    img: "https://media.licdn.com/dms/image/D4D0BAQFSY_UYw62ikQ/company-logo_200_200/0/1690433742597?e=1732147200&v=beta&t=X-66AW1QmFBZTfKM4RS2n7nqcqAKqusT6xUuMIx0Qe8",
+    role: "Flutter Developer",
+    company: "Probity",
+    date: "Jan 2024 - June 2024 · 6 mos",
+    desc: "Cross Platform App Development Domin , remarkable Projects and learn new things",
+    skills: [
+      "Mobile Application Development",
+      "Flutter"
+    ],
+  },
   {
     id: 0,
     img: "https://www.ecell.in/mainpage/assets/images/logo.webp",
@@ -155,7 +167,7 @@ export const experiences = [
     ],
   },
   {
-    id: 0,
+    id: 1,
     img: "https://hacktoberfest.com/_next/static/media/favicon.c57c9d0f.svg",
     role: "Open Source Contributor",
     company: "Hacktoberfest-MLSC",
@@ -171,19 +183,6 @@ export const experiences = [
       "Github",
       "Version control",
     ],
-  },
-  {
-    id: 1,
-    img: "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=48,h=48,fit=crop,f=png/Aq20eV79zLfpXV6b/1685789339697-YrDL60zzRBfzM6Wr.jpg",
-    role: "Internship",
-    company: "CodSoft",
-    date: "Aug 2023 - Sep 2023 · 2 mos",
-    desc: "Android App Development Domin , remarkable Projects and learn new things",
-    skills: [
-      "Mobile Application Development",
-      "Flutter"
-    ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/adad-b1b1d.appspot.com/o/Screenshot%202024-01-02%20184418.png?alt=media&token=11ee4907-157c-471c-bec5-25d3d0256fb2",
   },
   {
     id: 2,
@@ -257,13 +256,29 @@ export const education = [
 
 export const projects = [
   {
+    id: 12,
+    title: "React Js CRUD ",
+    date: "Aug 2024",
+    description:
+      "React js CRUD opreation with db.json follow the all basic operation ",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/adad-b1b1d.appspot.com/o/Screenshot%202024-08-18%20095718.png?alt=media&token=1c07d6ff-70d1-4ac0-b2bd-6165ba2d9adc",
+    tags: [
+      "React js",
+      "Json",
+      "API",
+    ],
+    category: "web app",
+    github: "https://github.com/Abhisheknik/React.js-CRUD",
+  },
+  {
     id: 11,
     title: "Megan AI APP",
     date: "July 2024",
     description:
       "MEGAN (Machine Enhanced Gateway for AI Networking) is a comprehensive mobile app that integrates various AI tools into one platform. ",
     image:
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/79035081/344371277-93f98f3d-a08d-40ee-9a88-cd2973fffcd5.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240721%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240721T125133Z&X-Amz-Expires=300&X-Amz-Signature=e0d232b3c265faf303f8d7c217c12bb95a41ad2add92f9f2a4d1637c7a9424ad&X-Amz-SignedHeaders=hosthttps://firebasestorage.googleapis.com/v0/b/adad-b1b1d.appspot.com/o/Screenshot%202024-07-21%20183005.png?alt=media&token=8455a5bd-996a-4f14-a0d0-cd4f1de3794e",
+      "https://firebasestorage.googleapis.com/v0/b/adad-b1b1d.appspot.com/o/Screenshot%202024-08-18%20095718.png?alt=media&token=1c07d6ff-70d1-4ac0-b2bd-6165ba2d9adc",
     tags: [
       "Flutter",
       "Firebase",
