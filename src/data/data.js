@@ -9,7 +9,7 @@ export const Bio = {
     "Enthusiastic tech learner with a positive attitude and growth mindset. Big thinker ready to make meaningful contributions and achieve greater things. Excited about the endless possibilities in the world of technology",
   github: "https://github.com/Abhisheknik",
   resume:
-    "https://firebasestorage.googleapis.com/v0/b/adad-b1b1d.appspot.com/o/Abhishek_Nikam_CV_5.pdf?alt=media&token=61a91fb1-32ba-4084-9f1c-193c7b678db1",
+    "https://abhisheknikam.tiiny.site/",
   linkedin: "https://www.linkedin.com/in/abhishek-nikam/",
   insta: "https://www.instagram.com/abhiz_hek/",
 };
