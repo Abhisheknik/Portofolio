@@ -142,6 +142,19 @@ export const skills = [
 ];
 
 export const experiences = [
+  {
+    id: 0,
+    img: "https://media.licdn.com/dms/image/v2/D4D0BAQEXGmbdDZiSvQ/company-logo_200_200/company-logo_200_200/0/1681793208677/imocha_logo?e=1736985600&v=beta&t=y5Qg99fIe7CfMOcbh6kngN9IOsbhaxz85nzRAB0RdYE",
+    role: "BackEnd Developer",
+    company: "iMocha",
+    date: "Sept 2024 - Present",
+    desc: "Working on Report Engine and API Development, Learning new things and working on new technologies",
+    skills: [
+      ".Net",
+      "C#",
+      "Azure DevOps",
+    ],
+  },
    {
     id: 0,
     img: "https://media.licdn.com/dms/image/D4D0BAQFSY_UYw62ikQ/company-logo_200_200/0/1690433742597?e=1732147200&v=beta&t=X-66AW1QmFBZTfKM4RS2n7nqcqAKqusT6xUuMIx0Qe8",
@@ -168,7 +181,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://hacktoberfest.com/_next/static/media/favicon.c57c9d0f.svg",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdmIQSdD76lhUcGRQlGMKxvPMcIt4cY3Ddew&s",
     role: "Open Source Contributor",
     company: "Hacktoberfest-MLSC",
     date: "Sept 2023 - Nov 2023",
