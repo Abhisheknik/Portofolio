@@ -268,6 +268,26 @@ export const education = [
 ];
 
 export const projects = [
+   {
+    id: 13,
+    title: "SlamBook ",
+    date: "Aug 2024",
+    description:
+      "SlamBook is a web application built using Python, HTML, and CSS to create a modern digital SlamBook experience. The app is containerized with Docker, using Docker volumes for persistent storage, and deployed on Azure App Service. It allows users to submit their details via a web form, with data securely stored in Azure services",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/adad-b1b1d.appspot.com/o/Screenshot%202024-11-23%20102544.png?alt=media&token=1d13272a-2f19-4d77-9097-2375196c3fb5",
+    tags: [
+      "Docker",
+      "Azure Web Services",
+      "Python",
+      "Flask",
+      "CI/CD",
+      "HTML/CSS",
+    ],
+    category: "web app",
+    github: "https://github.com/Abhisheknik/Slambook",
+    webapp:"https://slambook.azurewebsites.net/",
+  },
   {
     id: 12,
     title: "React Js CRUD ",
